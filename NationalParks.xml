@@ -35,7 +35,7 @@
       <Zip>57747</Zip>
     </Address>
   </National_Park>
-  <National_Park Rating="">
+  <National_Park>
     <Name>Biscayne</Name>
     <Phone>786-335-3620</Phone>
     <Address NearestAirport="MiamiInternational">
@@ -57,7 +57,7 @@
       <Zip>33034</Zip>
     </Address>
   </National_Park>
-  <National_Park Rating="">
+  <National_Park>
     <Name>Guadalupe Mountains</Name>
     <Phone>915-828-3251</Phone>
     <Address NearestAirport="ElPaso">
@@ -68,7 +68,7 @@
       <Zip>79847</Zip>
     </Address>
   </National_Park>
-  <National_Park Rating="">
+  <National_Park>
     <Name>Indiana Dunes</Name>
     <Phone>219-395-1882</Phone>
     <Address NearestAirport="SouthBend">
