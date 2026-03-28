@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<National_Park>
+  <National_Park Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7490</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </National_Park>
+  <National_Park Rating="4.9">
+    <Name>Badlands</Name>
+    <Phone>605-433-5361</Phone>
+    <Address NearestAirport="RapidCity">
+      <Number>25216</Number>
+      <Street>Ben Reifel Road</Street>
+      <City>Interior</City>
+      <State>SD</State>
+      <Zip>57750</Zip>
+    </Address>
+  </National_Park>
+  <National_Park Rating="4.6">
+    <Name>Wind Cave</Name>
+    <Phone>605-745-4600</Phone>
+    <Address NearestAirport="">
+      <Number>26611</Number>
+      <Street>US Highway 385</Street>
+      <City>Hot Springs</City>
+      <State>SD</State>
+      <Zip>57747</Zip>
+    </Address>
+  </National_Park>
+  <National_Park Rating="">
+    <Name>Biscayne</Name>
+    <Phone>786-335-3620</Phone>
+    <Address NearestAirport="MiamiInternational">
+      <Number>9700</Number>
+      <Street>SW 328th Street Sir Lancelot Jones Way</Street>
+      <City>Homestead</City>
+      <State>FL</State>
+      <Zip>33033</Zip>
+    </Address>
+  </National_Park>
+  <National_Park Rating="4.8">
+    <Name>Dry Tortugas</Name>
+    <Address NearestAirport="KeyWest">
+      <Number>40001</Number>
+      <Street>SR-9336</Street>
+      <City>Homestead</City>
+      <State>FL</State>
+      <Zip>33034</Zip>
+    </Address>
+  </National_Park>
+  <National_Park Rating="">
+    <Name>Guadalupe Mountains</Name>
+    <Phone>915-828-3251</Phone>
+    <Address NearestAirport="ElPaso">
+      <Number>400</Number>
+      <Street>Pine Canyon</Street>
+      <City>Salt Flat</City>
+      <State>TX</State>
+      <Zip>79847</Zip>
+    </Address>
+  </National_Park>
+  <National_Park Rating="">
+    <Name>Indiana Dunes</Name>
+    <Phone>219-395-1882</Phone>
+    <Address NearestAirport="SouthBend">
+      <Number>1100</Number>
+      <Street>North Mineral Springs Road</Street>
+      <City>Porter</City>
+      <State>IN</State>
+      <Zip>46304</Zip>
+    </Address>
+  </National_Park>
+  <National_Park Rating="4.9">
+    <Name>Mount Rainier</Name>
+    <Name>Wrong Name</Name>
+    <Phone>360-569-2211</Phone>
+    <Address NearestAirport="Seattle-Tacoma">
+      <Number>55210</Number>
+      <Street>238th Avenue East</Street>
+      <City>Ashford</City>
+      <State>WA</State>
+      <Zip>98304</Zip>
+    </Address>
+  </National_Park>
+  <National_Park Rating="4.8">
+    <Name>Olympic</Name>
+    <Phone>360-565-3130</Phone>
+    <Address NearestAirport="Seattle-Tacoma">
+      <Number>600</Number>
+      <Street>E. Park Avenue</Street>
+      <City>Port Angeles</City>
+      <State>WA</State>
+      <Zip>98362</Zip>
+    </Address>
+  </National_Park>
+  <National_Park Rating="4.8">
+    <Name>North Cascades</Name>
+    <Phone>360-854-7200</Phone>
+    <Address NearestAirport="Seattle-Tacoma">
+      <Number>810</Number>
+      <Street>State Route 20</Street>
+      <City>Sedro-Woolley</City>
+      <State>WA</State>
+      <Zip>98284</Zip>
+    </Address>
+  </National_Park>
+  <National_Park Rating="4.8">
+    <Name>Big Bend</Name>
+    <Phone>432-477-2251</Phone>
+    <Address NearestAirport="Midland">
+      <Number>129</Number>
+      <Street>Big Bend National Park</Street>
+      <City>Brewster County</City>
+      <State>TX</State>
+      <Zip>79834</Zip>
+  </National_Park>
+</National_Parks>
